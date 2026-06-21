@@ -1,0 +1,22 @@
+# Laravel
+backend/vendor/
+backend/.env
+backend/storage/logs/
+backend/storage/framework/
+backend/bootstrap/cache/
+
+# React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Secrets
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenClaw/Hermes configs with real tokens
+openclaw.json
